@@ -1,4 +1,4 @@
-# OIBGRIP_TASK1
+# OIBSIP_TASK1
 These repository contains all the files or codes that was required for completing the TASK-1 under the Web Development and Designing internship by Oasis Infobyte Community.
 
 TASK 1: COCA-COLA LANDING PAGE
